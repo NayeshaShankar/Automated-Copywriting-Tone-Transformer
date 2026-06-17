@@ -15,7 +15,7 @@ Takes a raw product description and automatically generates professional marketi
 - **Manual override** - sliders to manually control Temperature and Top_P for experimentation
 - **Platform-specific constraints** - enforces character limits and formatting rules per platform (Twitter/X 280 chars, Instagram hashtags, LinkedIn structure, Email format)
 - **Compare mode**- generates the same product copy across all 4 platforms simultaneously
-- **Live character count validation** — flags copy that exceeds platform limits in real time
+- **Live character count validation** - flags copy that exceeds platform limits in real time
 - **Session history** - tracks every generation with timestamp, downloadable as .txt
 - **Streamlit web UI** - fully interactive, no command line needed
 
