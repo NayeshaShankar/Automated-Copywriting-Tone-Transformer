@@ -1,4 +1,6 @@
 # Automated Copywriting & Tone Transformer
+![App Screenshot](screenshot.png)
+
 
 Built during Generative AI Internship at Decode Labs - Project 2.
 
